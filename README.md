@@ -14,13 +14,13 @@ of the images
 	* **CNN_Cereal_Classification.ipynb** --> contains the results obtained after the training of 4 convolutional neural network models based on the
 convolutional neural network models based on the AlexNet architecture.
 	
---Note-- These notebooks are for visualization only as the database is not stored in the Docker container
-for file size reasons
+**--Note-- These notebooks are for visualization only as the database is not stored in the Docker container
+for file size reasons**
 
-	*Predict_Cereal.ipynb --> notebook to test the chosen neural network model that obtained the best accuracy value 
+	* **Predict_Cereal.ipynb** --> notebook to test the chosen neural network model that obtained the best accuracy value 
 with the test data
 
-/sample_images
+* /sample_images
 Contains 8 test images, 2 of each class to test the neural network with the Predict_Cereal.ipynb notebook.
 
 * requirements.txt
