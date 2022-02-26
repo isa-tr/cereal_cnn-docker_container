@@ -4,7 +4,7 @@ Click this link to download Docker Container 'cereal_cnn': https://hub.docker.co
 
 Explanation of the files included in the container:
 
-/notebooks
+* /notebooks
 	* **DataAnalysis.ipynb** --> consists of the analysis and visualization of the dataset with which the neural network will be trained.
 the neural network
 
