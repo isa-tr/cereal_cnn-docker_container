@@ -8,10 +8,10 @@ Explanation of the files included in the container:
 	* **DataAnalysis.ipynb** --> consists of the analysis and visualization of the dataset with which the neural network will be trained.
 the neural network
 
-	*DataAug_&_Preprocessing.ipynb --> contains the steps followed to perform Data Augmentation and preprocessing of the images.
+	* **DataAug_&_Preprocessing.ipynb** --> contains the steps followed to perform Data Augmentation and preprocessing of the images.
 of the images
 
-	*CNN_Cereal_Classification.ipynb --> contains the results obtained after the training of 4 convolutional neural network models based on the
+	* **CNN_Cereal_Classification.ipynb** --> contains the results obtained after the training of 4 convolutional neural network models based on the
 convolutional neural network models based on the AlexNet architecture.
 	
 --Note-- These notebooks are for visualization only as the database is not stored in the Docker container
