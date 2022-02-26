@@ -4,7 +4,7 @@ Click this link to download Docker Container 'cereal_cnn': https://hub.docker.co
 
 Explanation of the files included in the container:
 
-* /notebooks
+* /notebooks:
 	* **DataAnalysis.ipynb** --> consists of the analysis and visualization of the dataset with which the neural network will be trained.
 the neural network
 
@@ -20,11 +20,11 @@ for file size reasons**
 	* **Predict_Cereal.ipynb** --> notebook to test the chosen neural network model that obtained the best accuracy value 
 with the test data
 
-* /sample_images
+* /sample_images:
 Contains 8 test images, 2 of each class to test the neural network with the Predict_Cereal.ipynb notebook.
 
-* requirements.txt
+* requirements.txt:
 Libraries and dependencies required for the application to work.
 
-* model4_95_64.h5
+* model4_95_64.h5:
 Binary file containing the trained weights of the neural network.
