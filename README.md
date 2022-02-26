@@ -28,3 +28,14 @@ Libraries and dependencies required for the application to work.
 
 * **model4_95_64.h5 -->**
 Binary file containing the trained weights of the neural network.
+
+# Instructions to download Docker container
+
+The instructions for running the Docker image are as follows:
+
+1. Open the link https://hub.docker.com/r/itr8399/cereal_cnn
+2. docker pull itr8399/cereal_cnn
+3. docker run -p 8888:8888 itr8399/cereal_cnn
+4. copy the link that appears in the console and paste it in the browser to open jupyter notebook, there you will find all the respective files.
+
+IMPORTANT: Read the README to make it easier.
