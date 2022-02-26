@@ -38,4 +38,4 @@ The instructions for running the Docker image are as follows:
 3. docker run -p 8888:8888 itr8399/cereal_cnn
 4. copy the link that appears in the console and paste it in the browser to open jupyter notebook, there you will find all the respective files.
 
-IMPORTANT: Read the README to make it easier.
+IMPORTANT: Read the README.txt to make it easier.
